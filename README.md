@@ -7,4 +7,8 @@ The Project aims at prediciting if the return for a stock/portfolio will be posi
 ![image](https://user-images.githubusercontent.com/68875257/102532944-bca03f00-4072-11eb-9440-864befbb1af1.png)
 
 
-# Data Preview
+## Data Preview
+
+![image](https://user-images.githubusercontent.com/68875257/102533291-35070000-4073-11eb-9151-fae1475316ae.png)
+
+
